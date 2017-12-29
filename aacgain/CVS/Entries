@@ -1,0 +1,27 @@
+/COPYING/1.2/Sun Mar 20 19:55:20 2005//
+/MP4MetaFile.cpp/1.8/Sun Aug  1 00:52:26 2010//
+/MP4MetaFile.h/1.6/Sun Aug  1 00:52:26 2010//
+/Makefile.am/1.2/Sun Aug  1 00:52:26 2010//
+/README/1.16/Mon Aug  2 19:14:40 2010//
+/aacgain.cpp/1.8/Sun Aug  1 00:52:25 2010//
+/aacgain.dsp/1.2/Sun Apr 15 20:06:42 2007//
+/aacgain.dsw/1.2/Sun Apr 15 20:06:42 2007//
+/aacgain.h/1.8/Sun Aug  1 00:52:25 2010//
+/aacgain.rc/1.9/Sun Aug  1 00:52:25 2010//
+/aacgain.sln/1.5/Sun Aug  1 00:52:26 2010//
+/aacgain.vcproj/1.4/Tue Nov  4 00:43:10 2008//
+/aacgain.vcxproj/1.1/Sun Aug  1 00:56:15 2010//
+/aacgain.vcxproj.filters/1.1/Sun Aug  1 00:56:15 2010//
+/aacgainf.h/1.2/Sun Aug  1 00:52:26 2010//
+/aacgaini.h/1.3/Sun Aug  1 00:52:26 2010//
+/decoder.c/1.2/Sun Aug  1 00:52:26 2010//
+/mp3gain.dsp/1.1/Fri Feb 18 16:31:17 2005//
+/mp3gain.vcproj/1.3/Sun May 27 18:28:53 2007//
+/mp3gain.vcxproj/1.1/Sun Aug  1 00:56:15 2010//
+/mp3gain.vcxproj.filters/1.1/Sun Aug  1 00:56:15 2010//
+/mp4v2.patch/1.1/Sun Aug  1 00:56:15 2010//
+/mpeg4ip12.patch/1.1/Fri Feb 18 16:31:18 2005//
+/resource.h/1.1/Fri Feb 18 16:31:18 2005//
+/syntax.c/1.2/Sun Aug  1 00:52:26 2010//
+/unix_build_system.tar.bz2/1.1/Mon Apr 18 03:49:48 2005/-kb/
+D
